@@ -1,0 +1,26 @@
+body {
+    background-image: url(images/abo.jpg);
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 1.2rem;
+    padding: 5px;
+    background-color: rgba(255, 255, 255,0.8);
+    color: black;
+    display: inline-block;
+    border:none;
+    border-radius: 5px;
+}
+a {
+    font-size: 1.2rem;
+    padding: 5px;
+    background-color: rgba(255, 255, 255,0.8);
+    color: black;
+    display: inline-block;
+    border:none;
+    border-radius: 5px;
+ }
+    
